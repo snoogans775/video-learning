@@ -1,11 +1,10 @@
-# Change Companies Learning
+# Video Learning Platform
 
 A platform for Change Companies media
 
 ## Libraries
 
 Database
-- GraphQL
 
 UI
 - React
